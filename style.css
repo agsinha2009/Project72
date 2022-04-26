@@ -1,0 +1,98 @@
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+    float: top;
+}
+body{
+    text-align: center;
+}
+#sport{
+    width:1000px;
+}
+h5{
+    font-size: 20px;
+}
+.travel_mainDiv{
+    border: 1px solid black;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+p{
+    color:black;
+    font-size: 20px;
+}
+h4{
+    font-size: 25;
+}
+.travel_mainDiv hr{
+     width: 230px;
+     
+ 
+}
+.travel_mainDiv h5,.travel_mainDiv p{
+    margin-left: 20px;
+}
+.travel_mainDiv{
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    float: none;
+}
+.travel_mainDiv img{
+    width:100%;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 20;
+    width:100%;
+    display: inline-block;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 20;
+    width:100%;
+    display: inline-block;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color:yellow;
+}
+#about-p{
+    text-align: left;
+}
+#ship{
+    width:500px;
+    height:250px;
+}
+#div{
+    height: 5px;
+    width: 30px;
+    text-decoration-color: black;
+}
+#line{
+    border:1px solid black;
+    
+}#WWhat’s New{
+    margin-top: 30px;
+}
+.enviroment_li{
+    margin-top: 13px;
+}
+.enviroment_li h3{
+    padding: 8px;
+}
+#contact{
+    margin-top: 33px;
+}
+#contact{
+    padding: 8px;
+}
+
